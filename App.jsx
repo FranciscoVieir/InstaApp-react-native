@@ -1,12 +1,5 @@
 import React, {useState} from 'react';
-import {
-  SafeAreaView,
-  ScrollView,
-  StyleSheet,
-  Text,
-  View,
-  FlatList,
-} from 'react-native';
+import {StyleSheet, View, FlatList} from 'react-native';
 import Header from './src/Components/Header';
 import PostList from './src/Components/PostList';
 
